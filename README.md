@@ -1,6 +1,10 @@
 # Lista de Jogos
 
-Este projeto foi desenvolvido durante um intensivão de Java Spring com o professor Nélio Alves. Utilizando o framework Java Spring Boot, Docker e o banco de dados H2, o projeto permite a criação de uma lista de jogos com relacionamentos N-N entre jogos e categorias. Além disso, são implementadas consultas SQL utilizando o Spring Data JPA e utilizadas Projections para retornar informações específicas.
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Mayconzedeck/dslist/blob/main/LICENSE) 
+
+Este projeto foi desenvolvido durante um intensivão de Java Spring com o professor Nélio Alves. Utilizando o framework Java Spring Boot, Docker e o 
+banco de dados H2, o projeto permite a criação de uma lista de jogos com relacionamentos N-N entre jogos e categorias. Além disso, são implementadas 
+consultas SQL utilizando o Spring Data JPA e utilizadas Projections para retornar informações específicas.
 
 ## Requisitos
 
@@ -37,4 +41,5 @@ Se você deseja contribuir para este projeto, siga as etapas abaixo:
 
 ## Agradecimentos
 
-Agradeço ao professor Nélio Alves pelo intenso e valioso curso de Java Spring, que proporcionou o aprendizado dessas tecnologias e conceitos. Também sou grato à comunidade de desenvolvedores e colaboradores do GitHub por fornecer um espaço para compartilhar conhecimento e colaborar em projetos.
+Agradeço ao professor Nélio Alves pelo intenso e valioso curso de Java Spring, que proporcionou o aprendizado dessas tecnologias e conceitos. Também sou 
+grato à comunidade de desenvolvedores e colaboradores do GitHub por fornecer um espaço para compartilhar conhecimento e colaborar em projetos.
